@@ -1,4 +1,4 @@
-﻿![StudyTube Logo](./public/icon-128.png)
+﻿![StudyTube Logo](./public/icon/128.png)
 # StudyTube<br/>(remove-youtube-contents-app)
 
 YouTubeの誘惑的なコンテンツ（おすすめ動画、サイドバーなど）を非表示にし、学習や作業に集中するためのブラウザ拡張機能です。
